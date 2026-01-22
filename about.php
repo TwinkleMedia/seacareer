@@ -6,8 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="profile" href="https://gmpg.org/xfn/11">
   <title>About Us- Maritime Training Institute</title>
-  <meta name="description"content="At Sea Career, we're more than just a maritime training center; we're your partners on the journey to a successful and fulfilling maritime career.">
-  <link rel="canonical" href="https://seacareer.org/about.php"/>
+  <meta name="description" content="At Sea Career, we're more than just a maritime training center; we're your partners on the journey to a successful and fulfilling maritime career.">
+  <link rel="canonical" href="https://seacareer.co.in/about.php"/>
 
   
   
