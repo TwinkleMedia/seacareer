@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="profile" href="https://gmpg.org/xfn/11">
-  <title>Electro Technical Officers (ETO) | ETO Course 2024 Details, Fees, Duration, eligibility, Admission - Seacareer.co.in</title>
+  <title>Electro Technical Officers (ETO) | ETO Course 2024 Details, Fees, Duration, eligibility, Admission </title>
     <link rel="canonical" href="https://seacareer.co.in/eto.php"/>
    <meta name="description" content="  Designed specifically for individuals with Electrical Diplomas and Degrees, the 4-month Electro-Technical Officer course at Seacareer.co.in offers an immersive educational experience. The Electro Technical Officer (ETO) program is a 1-year course designed by industry leaders in accordance with global standards. Admissions 2024 - ETO, Electro-Technical Officers, Eligibility Criteria, Qualifications, Marine Courses at Seacareer.co.in, Electrical Course, Best Marine Institute for ETO. ETO Course 2024 - Syllabus, Eligibility Criteria, Selection Procedure, Top Universities and Colleges for ETO Course, Career Opportunities, Fees, Job Prospects. ">
    <meta name="keywords" content="Electro Technical Officers (ETO), ETO Course, ETO Course 2024 Details, ETO Course Fees, ETO Course Duration, ETO Course eligibility, ETO Course Admission 2024, Seacareer.co.in, Electrical Officer (ETO), Electro-Technical Officer (ETO), ETO duties, General rank structure of ETO department, ETO Course on board, join merchant navy, ETO Course Eligibility Criteria, ETO Course Qualifications, Marine Courses at Seacareer.co.in, ETO Course Electrical Course, Best Marine Institute for ETO, Maritime Training Center, Sea Career Consultancy and Training">
