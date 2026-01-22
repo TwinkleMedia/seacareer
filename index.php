@@ -530,7 +530,7 @@
     
         //Recipients
         $mail->setFrom('seacarrierconsultancy@gmail.com', 'Enroll_Form');
-        $mail->addAddress('admin@seacareer.org', 'mail1');                  //Add a recipient
+        $mail->addAddress('admin@seacareer.co.in', 'mail1');                  //Add a recipient
         $mail->addAddress('seacarrierconsultancy@gmail.com', 'mail2');     //Add a recipient
     
         //Content
