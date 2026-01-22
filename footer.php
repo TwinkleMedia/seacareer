@@ -21,7 +21,7 @@
                     <h2 class="subfooter ">Contact</h2>
                     <p class="contactlist footerlink"><i class="fa-solid fa-location-dot"></i>&nbsp; 217-B Wing, Second Floor, Plot No-44 Sai Chamber, Sector-11, CBD Belapur(East)</p>
                     <p class="contactlist footerlink"><i class="fa-solid fa-phone"></i> &nbsp;+91 8452055999</p>
-                    <p class="contactlist footerlink"><i class="fa-solid fa-envelope"></i> &nbsp;admin@seacareer.org</p>
+                    <p class="contactlist footerlink"><i class="fa-solid fa-envelope"></i> &nbsp;admin@seacareer.co.in</p>
                 </div>
             
             </div>
