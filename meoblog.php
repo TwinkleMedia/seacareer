@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MEO Class II Blog : Maritime Training Insights | Sea Career</title>
   <meta name="description" content="Explore in-depth insights and expertise tips on MEO Class II preparation with our informative articles & valuable blogs at Sea Career Consultancy & Training.">
-  <link rel="canonical" href="https://seacareer.org/meoblog.php"/>
+  <link rel="canonical" href="https://seacareer.co.in/meoblog.php"/>
     <?php include './link.php';?>
 </head>
 

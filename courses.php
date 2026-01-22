@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="profile" href="https://gmpg.org/xfn/11">
-  <link rel="canonical" href="https://seacareer.org/courses.php" />
+  <link rel="canonical" href="https://seacareer.co.in/courses.php" />
   <link rel="preload" href="./data/js/main.js" as="script" />
   <title>Maritime Training Courses</title>
   <meta name="title" content="India's first online maritime training center - Sea Career Consultancy">

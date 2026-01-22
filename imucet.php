@@ -5,13 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="profile" href="https://gmpg.org/xfn/11">
-  <link rel="canonical" href="https://seacareer.org/imucet.php" />
+  <link rel="canonical" href="https://seacareer.co.in/imucet.php" />
   <title>IMU CET 2024: Exam Details, Syllabus, Eligibility, fees | IMU - CET Merchant Navy | Seacareer.org</title>
   <meta name="description" content="The Indian Maritime University Common Entrance Test IMU CET Exam, Admissions 2024-25.     Regular classes for IMU CET are conducted by Expert faculty. Easy to understand specially designed IMU CET course material. Merchant Navy Fee Structure, Unlimited Coaching for Written Test of IMU – CET, Forms filling, Workshop, Mock interviews & Grooming. Discover essential information about IMU CET 2024, including exam date, pattern, syllabus, and sample questions.">
   <meta name="keywords" content="IMU CET Preparation Course 2024, IMU CET Exam 2024 Syllabus, IMU CET pattern techniques, IMU admission 2024, Indian Marine University Common Entrance Test, IMU CET eligibility, IMU CET exam Fees, Sea Career Consultancy and Training, Seacareer.org, Mathematics Mastery, Physics Fundamentals, Chemistry Essentials, English Proficiency, General Knowledge Insights, Strategic Test-Taking Techniques, Mock Exams and Practice Tests. Maritime Training Center">
   <meta property="og:title" content="IMU CET 2024: Exam Details, Syllabus, Eligibility, fees | IMU - CET Merchant Navy | Seacareer.org" />
   <meta property="og:description" content="The Indian Maritime University Common Entrance Test IMU CET Exam, Admissions 2024-25.     Regular classes for IMU CET are conducted by Expert faculty. Easy to understand specially designed IMU CET course material. Merchant Navy Fee Structure, Unlimited Coaching for Written Test of IMU – CET, Forms filling, Workshop, Mock interviews & Grooming. Discover essential information about IMU CET 2024, including exam date, pattern, syllabus, and sample questions." />
-  <meta property="og:image" content="https://seacareer.org/data/images/section.jpg" />
+  <meta property="og:image" content="https://seacareer.co.in/data/images/section.jpg" />
   <link rel="stylesheet" href="./data/css/other.css">
   <?php include './link.php'; ?>
 

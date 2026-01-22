@@ -10,8 +10,8 @@
   <meta name="keywords" content="MEO CLASS II course, MEO Class II Exam 2024, MEO Class 2, MEO Class 1, 2nd Mate, Chief Mate, Master, e-learning, MEO Class 4, Seacareer.org, Marine Engineering Courses, maritime industry, technical proficiency, marine engineering systems, machinery operations, propulsion systems, electrical systems, maritime regulations, safety protocols, environmental standards, marine machinery, E-learning center, ship Study Material, digital eLearning, online learning, Virtual learning system, online interactive learning, interactive classroom technology, online classes, classes on demand, Virtual Classes, Virtual Tuition, Online Coaching, LIVE Q&A, Sea Career Consultancy And Training, Maritime Training Center">
   <meta property="og:title" content="MEO CLASS II Preparatory Course | Marine Engineering Courses | SeaCareer.org" />
   <meta property="og:description" content="Prepare for success in marine engineering with Seacareer.org MEO Class II Exam Success by conducting a Preparatory Course. One comprehensive package equips you with the knowledge and skills required for your career with detailed guidance on eligibility, document requirements, booking procedures, and essential tips. Seacareer.org is proud to be awarded ISO 9001:2015 certification, an internationally recognized standard that ensures that our e-learning courses meet the needs of our clients through an effective quality management system." />
-  <meta property="og:image" content="https://seacareer.org/data/images/section.jpg" />
-  <link rel="canonical" href="https://seacareer.org/meo.php"/>
+  <meta property="og:image" content="https://seacareer.co.in/data/images/section.jpg" />
+  <link rel="canonical" href="https://seacareer.co.in/meo.php"/>
   <?php include './link.php';?>
   
  <script type="application/ld+json">

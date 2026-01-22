@@ -7,7 +7,7 @@
   <link rel="profile" href="https://gmpg.org/xfn/11">
   <title>Contact Us for Expert Maritime Training Guidance – Sea Career</title>
   <meta name="description" content="Connect with us at Sea Career Consultancy & Training to commence on a journey towards excellence in maritime training.">
-  <link rel="canonical" href="https://seacareer.org/contact.php"/>
+  <link rel="canonical" href="https://seacareer.co.in/contact.php"/>
   <?php include './link.php';?>
 </head>
 

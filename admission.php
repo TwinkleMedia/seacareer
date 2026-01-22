@@ -8,7 +8,7 @@
   <link rel="preload" href="./data/js/main.js" as="script" />
   <title>Admission-Apply for courses Now at Sea Career Consultancy.</title>
   <meta name="description" content="Apply now for courses of your Maritime career wtih Sea career Consultancy & Training.">
-  <link rel="canonical" href="https://seacareer.org/admission.php"/>
+  <link rel="canonical" href="https://seacareer.co.in/admission.php"/>
   <?php include './link.php';?>
   <script>
     if (window.history.replaceState) {

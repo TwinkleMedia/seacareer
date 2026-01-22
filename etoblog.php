@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sea Career ETO Blog - Maritime Training for ETOs</title>
   <meta name="description" content="Navigate your career path with precision through our ETO Blog at Sea Career Consultancy's specialized blog page. Stay ahead in maritime training with us.">
-  <link rel="canonical" href="https://seacareer.org/etoblog.php"/>
+  <link rel="canonical" href="https://seacareer.co.in/etoblog.php"/>
 
   
   <?php include './link.php';?>

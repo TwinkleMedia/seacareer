@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>IMU CET Blog - Maritime Training : Sea Career Consultancy.</title>
   <meta name="description" content="Discover the latest insights & valuable information on maritime training for IMU CET with Sea Career Consultancy & Training's specialized IMU blog page.">
-  <link rel="canonical" href="https://seacareer.org/imublog.php"/>
+  <link rel="canonical" href="https://seacareer.co.in/imublog.php"/>
   <?php include './link.php';?>
 </head>
 

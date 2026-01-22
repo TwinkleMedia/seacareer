@@ -7,7 +7,7 @@
   <link rel="profile" href="https://gmpg.org/xfn/11">
   <title>GMA Maritime Training: Upgrade Your Career with Sea Career.</title>
   <meta name="description" content="Elevate your career with Glasgow Maritime Academy (GMA) comprehensive Maritime Training programs at Sea Career Consultancy & Training.">
-    <link rel="canonical" href="https://seacareer.org/gma.php"/>
+    <link rel="canonical" href="https://seacareer.co.in/gma.php"/>
   <?php include './link.php';?>
 </head>
 

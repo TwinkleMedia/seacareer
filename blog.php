@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>"Sea Career Blog-Navigate Maritime Training Insights"</title>
    <meta name="description" content="Explore maritime world with Sea Career Consultancy & Training's Thoughtful blog page. Dive into the latest trends and valuable insights on maritime training.">
-    <link rel="canonical" href="https://seacareer.org/blog.php"/>
+    <link rel="canonical" href="https://seacareer.co.in/blog.php"/>
   <?php include './link.php';?>
 </head>
 

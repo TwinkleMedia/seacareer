@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sea Career GMA Blog - Maritime Training</title>
   <meta name="description" content="Explore the Glasgow Maritime Academy (GMA) Blog with Sea Career Consultancy & Training. Unlock the latest trends & insights in maritime training with us.">
-  <link rel="canonical" href="https://seacareer.org/gmablog.php"/>
+  <link rel="canonical" href="https://seacareer.co.in/gmablog.php"/>
   <?php include './link.php';?>
 </head>
 
