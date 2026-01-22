@@ -462,7 +462,7 @@
           <img src="./data/images/apps.png" alt="" class="img-fluid appimg">
         </div>
         <div class="col-12 col-md-7 ">
-          <h3 class="apptitle text-center pt-5">Our App download from </h3>
+          <h3 class="apptitle text-center pt-5">Download Our App</h3>
           <div class="appbutton d-flex">
             <a href="https://play.google.com/store/apps/details?id=co.jarvis.ipsrc"><img
                 src="./data/images/googlepay.png" alt="" class="footerlogo"></a>
